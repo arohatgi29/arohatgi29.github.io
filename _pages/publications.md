@@ -6,15 +6,17 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 2
 ---
-
 {% include bib_search.liquid %}
-
 ## Journal Articles
 <div class="publications">
 {% bibliography --query @article %}
 </div>
-
 ## Conference Papers & Expanded Abstracts
 <div class="publications">
 {% bibliography --query @inproceedings %}
 </div>
+
+<style>
+h2.year { display: none; }
+.publications hr { display: none; }
+</style>
