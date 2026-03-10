@@ -7,14 +7,14 @@ nav: true
 nav_order: 2
 ---
 
+<!-- _pages/publications.md -->
+
+<!-- Bibsearch Feature -->
+
 {% include bib_search.liquid %}
 
-## Journal Articles
 <div class="publications">
-{% bibliography --query @article %}
-</div>
 
-## Conference Papers & Expanded Abstracts
-<div class="publications">
-{% bibliography --query @inproceedings %}
+{% bibliography %}
+
 </div>
