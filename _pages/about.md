@@ -2,12 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: my_pic.jpg
   image_circular: false
-selected_papers: true
+selected_papers: false
 social: true
 announcements:
   enabled: false
