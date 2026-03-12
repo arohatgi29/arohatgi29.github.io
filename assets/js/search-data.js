@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-running",
-          title: "Running",
+          title: "running",
           description: "",
           section: "Navigation",
           handler: () => {
