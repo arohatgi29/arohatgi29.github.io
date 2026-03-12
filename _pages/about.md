@@ -9,7 +9,7 @@ profile:
 selected_papers: false
 social: true
 announcements:
-  enabled: false
+  enabled: true
   scrollable: true
   limit: 5
 latest_posts:
