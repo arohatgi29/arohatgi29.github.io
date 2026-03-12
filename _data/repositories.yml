@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - arohatgi29
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - arohatgi29/Seismic-Processing-using-Madagascar
+  - arohatgi29/Team_Surfers_Geoscience_Hackathon2024
+  - arohatgi29/LocalSignalAttributes.jl
+  - arohatgi29/SeismicPhaseAnalysis
