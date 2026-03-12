@@ -153,13 +153,14 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
+#collections:
 #  books:
 #    output: true
- news:
-   defaults:
-     layout: post
-  output: true
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
 #  projects:
 #    output: true
 #  teachings:
