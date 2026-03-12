@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-news",
-          title: "news",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/news/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
@@ -419,7 +412,7 @@ ninja.data = [{
           section: "News",},{id: "news-winner-of-the-jsg-geo-hackathon-on-computational-reproducibility-hosted-by-the-jackson-school-of-geosciences",
           title: 'Winner of the JSG Geo-Hackathon on Computational Reproducibility, hosted by the Jackson School...',
           description: "",
-          section: "News",},{id: "news-invited-speaker-at-agu-2024-presented-field-test-design-for-geophysical-monitoring-of-hydrogen-injection-in-water-bearing-layer-on-behalf-of-supervisor-dr-andrey-bakulin",
+          section: "News",},{id: "news-invited-speaker-at-agu-2024-presented-field-test-design-for-geophysical-monitoring-of-hydrogen-injection-in-water-bearing-layer-on-behalf-of-my-supervisor-dr-andrey-bakulin",
           title: 'Invited speaker at AGU 2024. Presented “Field-Test Design for Geophysical Monitoring of Hydrogen...',
           description: "",
           section: "News",},{id: "news-publication-data-driven-analysis-of-seismic-phase-using-circular-statistics-featured-on-the-front-page-of-the-leading-edge",
