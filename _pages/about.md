@@ -15,7 +15,7 @@ announcements:
 latest_posts:
   enabled: false
   scrollable: true
-  limit: 3
+  limit: 
 ---
 
 I am a Ph.D. student in Geophysics at the University of Texas at Austin. My research focuses on seismic data analysis and signal processing, with an interest in understanding wave propagation and improving methods for subsurface imaging. I enjoy working at the intersection of geophysics, computation, and data analysis.
