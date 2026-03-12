@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /running/
-title: Running
+title: running
 nav: true
 nav_order: 7
 profiles:
