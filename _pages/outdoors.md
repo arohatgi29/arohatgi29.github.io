@@ -6,7 +6,7 @@ nav: true
 nav_order: 7
 ---
 
-Outside of research, I love running. There is something about the rhythm of a long run that clears my head and helps me think through problems in ways that sitting at a desk never quite does. I started running thanks to my man, who introduced me to it, and it has since become one of my favorite ways to recharge.
+Outside of research, I love running. There is something about the rhythm of a long run that clears my head and helps me think through problems in ways that sitting at a desk never quite does. I started running thanks to my partner, who introduced me to it, and it has since become one of my favorite ways to recharge.
 
 <div class="row mt-3">
   <div class="col-sm-4">
@@ -22,7 +22,7 @@ Outside of research, I love running. There is something about the rhythm of a lo
 
 ---
 
-## Peru, Sounth America
+## Peru, South America
 
 Sometimes I do hiking too! Peru was one of the most incredible travel experiences. Three unforgettable hikes: Machu Picchu, where I arrived sleep-deprived after flight delays but pushed through and completed the trek; Rainbow Mountain (Vinicunca), whose striking multicolored stripes left me speechless despite hiking it while feeling sick; and Laguna 69, a stunning glacial lake in the Cordillera Blanca with the most vivid turquoise water set against snow-capped peaks, hands down the best hiking experience of them all!
 
@@ -60,7 +60,7 @@ Arizona's vast red rock formations, dramatic canyons, and endless desert skies f
 
 ## Maharashtra, India
 
-There is something magical about the greens of India. The Western Ghats in Maharashtra are full of lush, misty, and breathtaking. Having grown up in India, these landscapes feel like home in the most grounding way.
+There is something magical about the greens of India. The Western Ghats in Maharashtra are lush, misty, and breathtaking. Having grown up in India, these landscapes feel like home in the most grounding way.
 
 <div class="row mt-3">
   <div class="col-sm-6">
