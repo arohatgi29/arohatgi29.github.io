@@ -10,13 +10,13 @@ Outside of research, I love running. There is something about the rhythm of a lo
 
 <div class="row mt-3">
   <div class="col-sm-4">
-    {% include figure.liquid path="assets/img/running1.jpeg" class="img-fluid rounded" zoomable=true %}
+    {% include figure.liquid path="assets/img/running1.jpeg" class="img-fluid rounded" zoomable=false %}
   </div>
   <div class="col-sm-4">
-    {% include figure.liquid path="assets/img/running2.jpeg" class="img-fluid rounded" zoomable=true %}
+    {% include figure.liquid path="assets/img/running2.jpeg" class="img-fluid rounded" zoomable=false %}
   </div>
   <div class="col-sm-4">
-    {% include figure.liquid path="assets/img/running3.jpeg" class="img-fluid rounded" zoomable=true %}
+    {% include figure.liquid path="assets/img/running3.jpeg" class="img-fluid rounded" zoomable=false %}
   </div>
 </div>
 
@@ -28,15 +28,15 @@ Sometimes I do hiking too! Peru was one of the most incredible travel experience
 
 <div class="row mt-3">
   <div class="col-sm-4">
-    {% include figure.liquid path="assets/img/machupichu.jpeg" class="img-fluid rounded" zoomable=true %}
+    {% include figure.liquid path="assets/img/machupichu.jpeg" class="img-fluid rounded" zoomable=false %}
     <p class="text-center mt-1"><em>Machu Picchu</em></p>
   </div>
   <div class="col-sm-4">
-    {% include figure.liquid path="assets/img/Rainbowmountain.jpeg" class="img-fluid rounded" zoomable=true %}
+    {% include figure.liquid path="assets/img/Rainbowmountain.jpeg" class="img-fluid rounded" zoomable=false %}
     <p class="text-center mt-1"><em>Rainbow Mountain</em></p>
   </div>
   <div class="col-sm-4">
-    {% include figure.liquid path="assets/img/laguna69.jpeg" class="img-fluid rounded" zoomable=true %}
+    {% include figure.liquid path="assets/img/laguna69.jpeg" class="img-fluid rounded" zoomable=false %}
     <p class="text-center mt-1"><em>Laguna 69</em></p>
   </div>
 </div>
@@ -49,9 +49,9 @@ Arizona's vast red rock formations, dramatic canyons, and endless desert skies f
 
 <div class="row mt-3">
   <div class="col-sm-6">
-    {% include figure.liquid path="assets/img/Arizon1.jpeg" class="img-fluid rounded" zoomable=true %}
+    {% include figure.liquid path="assets/img/arizona1.jpg" class="img-fluid rounded" zoomable=false %}
   </div>
   <div class="col-sm-6">
-    {% include figure.liquid path="assets/img/Arizona2.jpg" class="img-fluid rounded" zoomable=true %}
+    {% include figure.liquid path="assets/img/arizona2.jpg" class="img-fluid rounded" zoomable=false %}
   </div>
 </div>
