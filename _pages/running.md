@@ -6,13 +6,13 @@ nav: true
 nav_order: 7
 ---
 
-{% include about_running.md %}
+Outside of research, I love running. There is something about the rhythm of a long run that clears my head and helps me think through problems in ways that sitting at a desk never quite does. I started running thanks to my partner, who introduced me to it, and it has since become one of my favorite ways to recharge.
 
 ---
 
 ## 🏔️ Peru
 
-Three incredible hikes — Machu Picchu, Rainbow Mountain, and Laguna 69. Each one unforgettable in its own way.
+Three incredible hikes: Machu Picchu, Rainbow Mountain, and Laguna 69. Each one unforgettable in its own way.
 
 <div class="row mt-3">
   <div class="col-sm-4">
