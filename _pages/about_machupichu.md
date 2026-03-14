@@ -1,0 +1,1 @@
+Hiking Machu Picchu was an unforgettable experience. The ancient Incan citadel sits high in the Andes Mountains of Peru. Sleep-deprived for two days due to flight delays, but so grateful to have made it there and completed the hike. Some adventures are worth every bit of the struggle!
