@@ -24,7 +24,7 @@ Outside of research, I love running. There is something about the rhythm of a lo
 
 ## Peru
 
-Three incredible hikes: Machu Picchu, Rainbow Mountain, and Laguna 69. Each one unforgettable in its own way.
+Sometimes I do hiking too! Peru was one of the most incredible travel experiences. Three unforgettable hikes: Machu Picchu, where I arrived sleep-deprived after flight delays but pushed through and completed the trek; Rainbow Mountain (Vinicunca), whose striking multicolored stripes left me speechless despite hiking it while feeling sick; and Laguna 69, a stunning glacial lake in the Cordillera Blanca with the most vivid turquoise water set against snow-capped peaks, hands down the best hiking experience of them all!
 
 <div class="row mt-3">
   <div class="col-sm-4">
@@ -43,7 +43,7 @@ Three incredible hikes: Machu Picchu, Rainbow Mountain, and Laguna 69. Each one 
 
 ---
 
-## Arizona, USA
+## Arizona
 
 Arizona's vast red rock formations, dramatic canyons, and endless desert skies feel like walking through drawing from my childhood.
 
