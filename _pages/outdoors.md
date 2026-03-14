@@ -52,7 +52,7 @@ Arizona's vast red rock formations, dramatic canyons, and endless desert skies f
     {% include figure.liquid path="assets/img/arizona1.jpg" class="img-fluid rounded" zoomable=false %}
   </div>
   <div class="col-sm-6">
-    {% include figure.liquid path="assets/img/arizona2.jpg" class="img-fluid rounded" zoomable=false %}
+    {% include figure.liquid path="assets/img/arizona_new2.jpeg" class="img-fluid rounded" zoomable=false %}
   </div>
 </div>
 

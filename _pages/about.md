@@ -20,7 +20,7 @@ latest_posts:
 
 I am a Ph.D. student in Geophysics at the University of Texas at Austin. My research focuses on seismic data analysis and signal processing, with an interest in understanding wave propagation and improving methods for subsurface imaging. I enjoy working at the intersection of geophysics, computation, and data analysis.
 
-I work with Dr. Andrey Bakulin and Dr. Sergey Fomel. My research focuses on understanding seismic signal phase and its role in wavefield coherence and subsurface imaging. I develop algorithms based on signal processing and circular statistics to characterize phase variability in seismic data and design methods to improve phase stability and data quality in multichannel recordings.
+I work with Dr. Andrey Bakulin and Dr. Sergey Fomel on understanding seismic signal phase and its role in wavefield coherence and subsurface imaging. I develop algorithms based on signal processing and circular statistics to characterize phase variability in seismic data and design methods to improve phase stability and data quality in multichannel recordings.
 
 ## Education
 
