@@ -421,7 +421,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-publication-data-driven-analysis-of-seismic-phase-using-circular-statistics-was-featured-on-the-front-page-of-the-special-issue-on-data-driven-geophysics-in-the-leading-edge",
           title: 'Our publication, “Data-driven analysis of seismic phase using circular statistics,” was featured on...',
           description: "",
-          section: "News",},{id: "news-awarded-the-exploration-geophysics-fellowship-from-the-jackson-school-of-geosciences-nominated-by-advisor-dr-sergey-fomel",
+          section: "News",},{id: "news-awarded-the-exploration-geophysics-fellowship-from-the-jackson-school-of-geosciences-nominated-by-my-advisor-dr-sergey-fomel",
           title: 'Awarded the Exploration Geophysics Fellowship from the Jackson School of Geosciences, nominated by...',
           description: "",
           section: "News",},{id: "news-invited-speaker-at-the-gsh-data-processing-and-acquisition-sig-presented-the-work-data-driven-analysis-of-seismic-phase-using-circular-statistics",
