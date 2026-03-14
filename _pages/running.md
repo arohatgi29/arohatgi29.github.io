@@ -10,7 +10,7 @@ Outside of research, I love running. There is something about the rhythm of a lo
 
 <div class="row mt-3">
   <div class="col-sm-4">
-    {% include figure.liquid path="assets/img/running1.jpeg" class="img-fluid rounded" zoomable=false %}
+    {% include figure.liquid path="assets/img/running.jpeg" class="img-fluid rounded" zoomable=false %}
   </div>
   <div class="col-sm-4">
     {% include figure.liquid path="assets/img/running2.jpeg" class="img-fluid rounded" zoomable=false %}
