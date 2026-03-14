@@ -1,32 +1,45 @@
 ---
-layout: profiles
+layout: page
 permalink: /running/
 title: running
 nav: true
 nav_order: 7
-profiles:
-  - align: right
-    image: running.jpeg
-    content: about_running.md
-    image_circular: false
-  - align: left
-    image: machupichu.jpeg
-    content: about_machupichu.md
-    image_circular: false
-  - align: right
-    image: Rainbowmountain.jpeg
-    content: about_rainbowmountain.md
-    image_circular: false
-  - align: left
-    image: laguna69.jpeg
-    content: about_laguna69.md
-    image_circular: false
-  - align: right
-    image: arizon1.jpeg
-    content: about_arizona1.md
-    image_circular: false
-  - align: left
-    image: arizona2.jpeg
-    content: about_arizona2.md
-    image_circular: false
 ---
+
+{% include about_running.md %}
+
+---
+
+## 🏔️ Peru
+
+Three incredible hikes — Machu Picchu, Rainbow Mountain, and Laguna 69. Each one unforgettable in its own way.
+
+<div class="row mt-3">
+  <div class="col-sm-4">
+    {% include figure.liquid path="assets/img/machupichu.jpeg" class="img-fluid rounded" zoomable=true %}
+    <p class="text-center mt-1"><em>Machu Picchu</em></p>
+  </div>
+  <div class="col-sm-4">
+    {% include figure.liquid path="assets/img/Rainbowmountain.jpeg" class="img-fluid rounded" zoomable=true %}
+    <p class="text-center mt-1"><em>Rainbow Mountain</em></p>
+  </div>
+  <div class="col-sm-4">
+    {% include figure.liquid path="assets/img/laguna69.jpeg" class="img-fluid rounded" zoomable=true %}
+    <p class="text-center mt-1"><em>Laguna 69</em></p>
+  </div>
+</div>
+
+---
+
+## 🏜️ Arizona, USA
+
+Arizona's vast red rock formations, dramatic canyons, and endless desert skies feel like walking through a painting.
+
+<div class="row mt-3">
+  <div class="col-sm-6">
+    {% include figure.liquid path="assets/img/arizon1.jpeg" class="img-fluid rounded" zoomable=true %}
+  </div>
+  <div class="col-sm-6">
+    {% include figure.liquid path="assets/img/arizona2.jpeg" class="img-fluid rounded" zoomable=true %}
+  </div>
+</div>
