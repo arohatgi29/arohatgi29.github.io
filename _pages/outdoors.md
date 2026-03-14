@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /running/
-title: running
+permalink: /outdoors/
+title: outdoors
 nav: true
 nav_order: 7
 ---
