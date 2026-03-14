@@ -1,1 +1,0 @@
-Laguna 69 is a stunning glacial lake nestled in the Cordillera Blanca mountain range of Peru. Hands down the best hiking experience of them all!

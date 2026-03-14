@@ -1,1 +1,0 @@
-Rainbow Mountain (Vinicunca) in Peru is one of the most surreal landscapes.  Hiked this while feeling sick, the altitude made it even more brutal, but absolutely worth every step!

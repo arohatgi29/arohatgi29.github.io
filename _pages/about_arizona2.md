@@ -1,1 +1,0 @@
-More adventures exploring Arizona's stunning desert trails and iconic rock formations.
