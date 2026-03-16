@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Outdoors/
+permalink: /outdoors/
 title: Outdoors
 nav: true
 nav_order: 7
