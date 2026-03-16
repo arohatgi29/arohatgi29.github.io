@@ -14,10 +14,10 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
+          title: "Repositories",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -35,7 +35,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Outdoors/";
+            window.location.href = "/outdoors/";
           },
         },{id: "post-a-post-with-plotly-js",
         
