@@ -63,10 +63,13 @@ Arizona's vast red rock formations, dramatic canyons, and endless desert skies f
 There is something magical about the greens of India. The Western Ghats in Maharashtra are lush, misty, and breathtaking. Having grown up in India, these landscapes feel like home in the most grounding way.
 
 <div class="row mt-3">
-  <div class="col-sm-6">
+  <div class="col-sm-4">
     {% include figure.liquid path="assets/img/India1.jpeg" class="img-fluid rounded" zoomable=false %}
   </div>
-  <div class="col-sm-6">
+  <div class="col-sm-4">
     {% include figure.liquid path="assets/img/India2.jpeg" class="img-fluid rounded" zoomable=false %}
+  </div>
+  <div class="col-sm-4">
+    {% include figure.liquid path="assets/img/India3.jpeg" class="img-fluid rounded" zoomable=false %}
   </div>
 </div>
