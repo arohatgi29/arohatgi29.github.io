@@ -24,11 +24,9 @@ Outside of research, I love running. There is something about the rhythm of a lo
 
 ---
 
-## Selected Hikes
+## Sometimes I hike too ..
 
-### Peru, 2025
-
-Sometimes I do hiking too! Peru was one of the most incredible travel experiences. Three unforgettable hikes: Machu Picchu, where I arrived sleep-deprived after flight delays but pushed through and completed the trek; Rainbow Mountain (Vinicunca), whose striking multicolored stripes left me speechless despite hiking it while feeling sick; and Laguna 69, a stunning glacial lake in the Cordillera Blanca with the most vivid turquoise water set against snow-capped peaks, hands down the best hiking experience of them all!
+Peru was one of the most incredible travel experiences. Three unforgettable hikes: Machu Picchu, where I arrived sleep-deprived after flight delays but pushed through and completed the trek; Rainbow Mountain (Vinicunca), whose striking multicolored stripes left me speechless despite hiking it while feeling sick; and Laguna 69, a stunning glacial lake in the Cordillera Blanca with the most vivid turquoise water set against snow-capped peaks, hands down the best hiking experience of them all!
 
 <div class="row mt-3">
   <div class="col-sm-4">
@@ -45,7 +43,6 @@ Sometimes I do hiking too! Peru was one of the most incredible travel experience
   </div>
 </div>
 
-### Arizona, 2024
 
 Arizona's vast red rock formations, dramatic canyons, and endless desert skies feel like walking through a painting.
 
@@ -57,8 +54,6 @@ Arizona's vast red rock formations, dramatic canyons, and endless desert skies f
     {% include figure.liquid path="assets/img/arizona_new2.jpeg" class="img-fluid rounded" zoomable=false %}
   </div>
 </div>
-
-### Maharashtra, 2022
 
 There is something magical about the greens of India. The Western Ghats in Maharashtra are lush, misty, and breathtaking. Having grown up in India, these landscapes feel like home in the most grounding way.
 
