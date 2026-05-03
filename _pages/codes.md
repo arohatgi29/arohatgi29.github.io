@@ -6,7 +6,11 @@ nav: true
 nav_order: 5
 ---
 
-### SeismicPhaseAnalysis
+I develop open-source tools for seismic data analysis and signal processing. Below are some of my key software contributions.
+
+---
+
+## SeismicPhaseAnalysis
 
 Description of this code...
 
@@ -16,7 +20,7 @@ Description of this code...
 
 ---
 
-### LocalSignalAttributes.jl
+## LocalSignalAttributes.jl
 
 Description of this code...
 
@@ -26,7 +30,7 @@ Description of this code...
 
 ---
 
-### Seismic Processing using Madagascar
+## Seismic Processing using Madagascar
 
 Description of this code...
 
@@ -36,10 +40,8 @@ Description of this code...
 
 ---
 
-### JSG Geoscience Hackathon 2024
+## JSG Geoscience Hackathon 2024
 
 Winner of the [JSG Geoscience Hackathon](https://www.jsg.utexas.edu/geoscience-hackathon/past-hackathons/) on Computational Reproducibility, hosted by the Jackson School of Geosciences, University of Texas at Austin. The hackathon challenged teams to develop reproducible geoscientific workflows. Our team, Team Surfers, built a reproducible seismic processing pipeline.
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo.liquid repository="arohatgi29/Team_Surfers_Geoscience_Hackathon2024" %}
-</div>
+[View on GitHub](https://github.com/arohatgi29/Team_Surfers_Geoscience_Hackathon2024){: .btn .btn-sm .z-depth-0 role="button"}
