@@ -6,10 +6,6 @@ nav: true
 nav_order: 5
 ---
 
-I develop open-source tools for seismic data analysis and signal processing. Below are some of my key software contributions.
-
----
-
 ## SeismicPhaseAnalysis
 
 <div class="row">
@@ -19,24 +15,30 @@ I develop open-source tools for seismic data analysis and signal processing. Bel
     </div>
   </div>
   <div class="col-sm-7">
-    Description of this code...
+    A collection of tools for analyzing and stabilizing seismic phase. The repository implements circular-statistics based methods to characterize phase variability in seismic data, quantify wavefield coherence, and design phase-stabilization workflows for multichannel recordings.
   </div>
 </div>
 
----
+**Paper 1:** Rohatgi, A., Bakulin, A., and Fomel, S., 2025, Data-driven analysis of seismic phase using circular statistics: *The Leading Edge*, 44(9), 683–691. \[[DOI](https://doi.org/10.1190/tle44090683.1)\] \[[Paper](../assets/pdf/TLE_2025.pdf)\]
 
-## LocalSignalAttributes.jl
-
-<div class="row">
-  <div class="col-sm-5">
-    <div class="repositories">
-      {% include repository/repo.liquid repository="arohatgi29/LocalSignalAttributes.jl" %}
-    </div>
+<div id="fig-viewer" style="margin-top: 12px;">
+  <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 8px;">
+    <button onclick="changeFig(-1)" style="padding: 4px 12px; cursor: pointer;">&#8592;</button>
+    <span id="fig-label" style="font-size: 13px; color: gray;">Figure 1 of 8</span>
+    <button onclick="changeFig(1)" style="padding: 4px 12px; cursor: pointer;">&#8594;</button>
   </div>
-  <div class="col-sm-7">
-    Description of this code...
-  </div>
+  <img id="fig-img" src="/assets/img/publication_preview/Paper1/Figure1.jpg" style="width: 100%; border-radius: 8px; border: 0.5px solid var(--color-border-tertiary);" />
 </div>
+
+<script>
+  var figIndex = 1;
+  var figTotal = 8;
+  function changeFig(dir) {
+    figIndex = ((figIndex - 1 + dir + figTotal) % figTotal) + 1;
+    document.getElementById('fig-img').src = '/assets/img/publication_preview/Paper1/Figure' + figIndex + '.jpg';
+    document.getElementById('fig-label').innerText = 'Figure ' + figIndex + ' of ' + figTotal;
+  }
+</script>
 
 ---
 
@@ -49,7 +51,7 @@ I develop open-source tools for seismic data analysis and signal processing. Bel
     </div>
   </div>
   <div class="col-sm-7">
-    A tutorial for end-to-end seismic processing of a 2D line using <a href="https://ahay.org/wiki/Main_Page">Madagascar</a>, an open-source software package for geophysical data analysis. The tutorial covers the full processing workflow: fetching and reading seismic data, setting geometry, updating the headers, viewing shot gathers, first break mute, subsampling the data, ground roll attenuation, surface consistent amplitude correction, sorting to CMPs, velocity analysis and NMO, time varying median filter, stack, and Stolt's migration.
+    A tutorial for end-to-end seismic processing of a 2D line using <a href="https://ahay.org/wiki/Main_Page">Madagascar</a>, an open-source software package for geophysical data analysis. The workflow covers: fetching data, setting geometry, first break mute, ground roll attenuation, surface consistent amplitude correction, velocity analysis and NMO, stack, and Stolt's migration.
   </div>
 </div>
 
