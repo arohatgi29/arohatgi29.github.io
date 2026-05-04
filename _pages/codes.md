@@ -67,10 +67,10 @@ nav_order: 5
     </div>
   </div>
   <div class="col-sm-6">
-    A registered Julia package for computing <em>local</em> signal attributes, measures defined in the neighborhood of each sample rather than instantaneously or globally, using regularized inversion with shaping regularization. Useful for estimating local frequencies and local similarity between datasets, with applications in seismic signal analysis. [![JuliaHub](https://img.shields.io/badge/JuliaHub-LocalSignalAttributes-9558B2?logo=julia&logoColor=white)](https://juliahub.com/ui/Packages/General/LocalSignalAttributes)
+    A registered Julia package for computing <em>local</em> signal attributes, measures defined in the neighborhood of each sample rather than instantaneously or globally, using regularized inversion with shaping regularization. Useful for estimating local frequencies and local similarity between datasets, with applications in seismic signal analysis.
   </div>
 </div>
-
+[![JuliaHub](https://img.shields.io/badge/JuliaHub-LocalSignalAttributes-9558B2?logo=julia&logoColor=white)](https://juliahub.com/ui/Packages/General/LocalSignalAttributes)
 
 ---
 
