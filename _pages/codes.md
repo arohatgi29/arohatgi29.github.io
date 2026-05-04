@@ -67,11 +67,10 @@ nav_order: 5
     </div>
   </div>
   <div class="col-sm-6">
-    A registered Julia package for computing <em>local</em> signal attributes — measures defined in the neighborhood of each sample rather than instantaneously or globally — using regularized inversion with shaping regularization. Useful for estimating local frequencies and local similarity between datasets, with applications in seismic signal analysis.
+    A registered Julia package for computing <em>local</em> signal attributes, measures defined in the neighborhood of each sample rather than instantaneously or globally, using regularized inversion with shaping regularization. Useful for estimating local frequencies and local similarity between datasets, with applications in seismic signal analysis. [![JuliaHub](https://img.shields.io/badge/JuliaHub-LocalSignalAttributes-9558B2?logo=julia&logoColor=white)](https://juliahub.com/ui/Packages/General/LocalSignalAttributes)
   </div>
 </div>
 
-[![JuliaHub](https://img.shields.io/badge/JuliaHub-LocalSignalAttributes-9558B2?logo=julia&logoColor=white)](https://juliahub.com/ui/Packages/General/LocalSignalAttributes)
 
 ---
 
@@ -99,6 +98,6 @@ nav_order: 5
     </div>
   </div>
   <div class="col-sm-6">
-    Source code for this website, built with <a href="https://github.com/alshedivat/al-folio">al-folio</a>, a Jekyll theme for academics. Hosted on GitHub Pages and customized to showcase publications, code, CV, and outdoor adventures.
+     Source code for this website, built with <a href="https://github.com/alshedivat/al-folio">al-folio</a>, a Jekyll theme for academics, and hosted on GitHub Pages. The site brings together my research, publications, code, CV, and outdoor activities in one place, and serves as a living portfolio that I update as new work and experiences come along.
   </div>
 </div>
