@@ -1,3 +1,11 @@
+---
+layout: page
+permalink: /codes/
+title: Codes
+nav: true
+nav_order: 5
+---
+
 ## SeismicPhaseAnalysis
 
 <div class="row">
@@ -31,3 +39,33 @@
     document.getElementById('fig-label').innerText = 'Figure ' + figIndex + ' of ' + figTotal;
   }
 </script>
+
+---
+
+## Seismic Processing using Madagascar
+
+<div class="row">
+  <div class="col-sm-4">
+    <div class="repositories">
+      {% include repository/repo.liquid repository="arohatgi29/Seismic-Processing-using-Madagascar" %}
+    </div>
+  </div>
+  <div class="col-sm-8">
+    A tutorial for end-to-end seismic processing of a 2D line using <a href="https://ahay.org/wiki/Main_Page">Madagascar</a>, an open-source software package for geophysical data analysis. The workflow covers: fetching data, setting geometry, first break mute, ground roll attenuation, surface consistent amplitude correction, velocity analysis and NMO, stack, and Stolt's migration.
+  </div>
+</div>
+
+---
+
+## Hackathon on Computational Reproducibility
+
+<div class="row">
+  <div class="col-sm-4">
+    <div class="repositories">
+      {% include repository/repo.liquid repository="arohatgi29/Team_Surfers_Geoscience_Hackathon2024" %}
+    </div>
+  </div>
+  <div class="col-sm-8">
+    Winner of the <a href="https://www.jsg.utexas.edu/geoscience-hackathon/past-hackathons/">JSG Geoscience Hackathon</a> on Computational Reproducibility, hosted by the Jackson School of Geosciences, University of Texas at Austin. The hackathon challenged teams to develop reproducible geoscientific workflows. Our team, Team Surfers, built a reproducible seismic processing pipeline.
+  </div>
+</div>
