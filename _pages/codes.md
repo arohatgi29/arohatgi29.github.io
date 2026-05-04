@@ -14,7 +14,7 @@ I develop open-source tools for seismic data analysis and signal processing. Bel
 
 <div class="row">
   <div class="col-sm-6">
-    <div class="repositories">
+    <div class="repositories" style="width: 100%;">
       {% include repository/repo.liquid repository="arohatgi29/SeismicPhaseAnalysis" %}
     </div>
   </div>
@@ -23,7 +23,12 @@ I develop open-source tools for seismic data analysis and signal processing. Bel
   </div>
 </div>
 
-**Paper 1:** Rohatgi, A., Bakulin, A., and Fomel, S., 2025, Data-driven analysis of seismic phase using circular statistics: *The Leading Edge*, 44(9), 683–691. \[[DOI](https://doi.org/10.1190/tle44090683.1)\] \[[Paper](../assets/pdf/TLE_2025.pdf)\]
+**Paper 1:** Rohatgi, A., Bakulin, A., and Fomel, S., 2025, Data-driven analysis of seismic phase using circular statistics: *The Leading Edge*, 44(9), 683–691.
+
+[![DOI](https://img.shields.io/badge/DOI-10.1190%2Ftle44090683.1-blue)](https://doi.org/10.1190/tle44090683.1)
+[![Paper](https://img.shields.io/badge/Paper-PDF-cc0000)](../assets/pdf/TLE_2025.pdf)
+[![Code](https://img.shields.io/badge/Code-GitHub-2ea44f)](https://github.com/arohatgi29/SeismicPhaseAnalysis)
+[![Language](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white)](https://julialang.org/)
 
 <!-- 
 <div id="fig-viewer" style="margin-top: 12px;">
@@ -34,7 +39,6 @@ I develop open-source tools for seismic data analysis and signal processing. Bel
   </div>
   <img id="fig-img" src="/assets/img/publication_preview/Paper1/Figure1.jpg" style="width: 50%; border-radius: 8px; border: 0.5px solid var(--color-border-tertiary);" />
 </div>
-
 <script>
   var figIndex = 1;
   var figTotal = 8;
@@ -52,7 +56,7 @@ I develop open-source tools for seismic data analysis and signal processing. Bel
 
 <div class="row">
   <div class="col-sm-6">
-    <div class="repositories">
+    <div class="repositories" style="width: 100%;">
       {% include repository/repo.liquid repository="arohatgi29/Seismic-Processing-using-Madagascar" %}
     </div>
   </div>
@@ -67,11 +71,11 @@ I develop open-source tools for seismic data analysis and signal processing. Bel
 
 <div class="row">
   <div class="col-sm-6">
-    <div class="repositories">
+    <div class="repositories" style="width: 100%;">
       {% include repository/repo.liquid repository="arohatgi29/Team_Surfers_Geoscience_Hackathon2024" %}
     </div>
   </div>
   <div class="col-sm-6">
-    Winner of the <a href="https://www.jsg.utexas.edu/geoscience-hackathon/past-hackathons/">JSG Geoscience Hackathon</a> on Computational Reproducibility, hosted by the Jackson School of Geosciences, University of Texas at Austin. The hackathon challenged and teams to develop reproducible geoscientific workflows. Our team, Team Surfers, built a reproducible seismic processing pipeline.
+    Winner of the <a href="https://www.jsg.utexas.edu/geoscience-hackathon/past-hackathons/">JSG Geoscience Hackathon</a> on Computational Reproducibility, hosted by the Jackson School of Geosciences, University of Texas at Austin. The hackathon challenged teams to develop reproducible geoscientific workflows. Our team, Team Surfers, built a reproducible seismic processing pipeline.
   </div>
 </div>
