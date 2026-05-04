@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: page
 permalink: /codes/
@@ -15,7 +14,7 @@ I develop open-source tools for seismic data analysis and signal processing. Bel
 
 <div class="row">
   <div class="col-sm-6">
-    <div class="repositories" style="width: 100%;">
+    <div class="repositories">
       {% include repository/repo.liquid repository="arohatgi29/SeismicPhaseAnalysis" %}
     </div>
   </div>
@@ -53,7 +52,7 @@ I develop open-source tools for seismic data analysis and signal processing. Bel
 
 <div class="row">
   <div class="col-sm-6">
-    <div class="repositories" style="width: 100%;">
+    <div class="repositories">
       {% include repository/repo.liquid repository="arohatgi29/Seismic-Processing-using-Madagascar" %}
     </div>
   </div>
@@ -68,12 +67,11 @@ I develop open-source tools for seismic data analysis and signal processing. Bel
 
 <div class="row">
   <div class="col-sm-6">
-    <div class="repositories" style="width: 100%;">
+    <div class="repositories">
       {% include repository/repo.liquid repository="arohatgi29/Team_Surfers_Geoscience_Hackathon2024" %}
     </div>
   </div>
   <div class="col-sm-6">
-    Winner of the <a href="https://www.jsg.utexas.edu/geoscience-hackathon/past-hackathons/">JSG Geoscience Hackathon</a> on Computational Reproducibility, hosted by the Jackson School of Geosciences, University of Texas at Austin. The hackathon challenged teams to develop reproducible geoscientific workflows. Our team, Team Surfers, built a reproducible seismic processing pipeline.
+    Winner of the <a href="https://www.jsg.utexas.edu/geoscience-hackathon/past-hackathons/">JSG Geoscience Hackathon</a> on Computational Reproducibility, hosted by the Jackson School of Geosciences, University of Texas at Austin. The hackathon challenged and teams to develop reproducible geoscientific workflows. Our team, Team Surfers, built a reproducible seismic processing pipeline.
   </div>
 </div>
-```
