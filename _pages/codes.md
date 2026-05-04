@@ -6,15 +6,11 @@ nav: true
 nav_order: 5
 ---
 
-I develop open-source tools for seismic data analysis and signal processing. Below are some of my key software contributions.
-
----
-
 ## SeismicPhaseAnalysis
 
 <div class="row">
   <div class="col-sm-6">
-    <div class="repositories" style="width: 100%;">
+    <div class="repositories w-100">
       {% include repository/repo.liquid repository="arohatgi29/SeismicPhaseAnalysis" %}
     </div>
   </div>
@@ -23,7 +19,7 @@ I develop open-source tools for seismic data analysis and signal processing. Bel
   </div>
 </div>
 
-**Paper 1:** Rohatgi, A., Bakulin, A., and Fomel, S., 2025, Data-driven analysis of seismic phase using circular statistics: *The Leading Edge*, 44(9), 683–691.
+**Rohatgi-et-al-2025-Data-driven analysis of seismic phase using circular statistics**
 
 [![DOI](https://img.shields.io/badge/DOI-10.1190%2Ftle44090683.1-blue)](https://doi.org/10.1190/tle44090683.1)
 [![Paper](https://img.shields.io/badge/Paper-PDF-cc0000)](../assets/pdf/TLE_2025.pdf)
@@ -56,7 +52,7 @@ I develop open-source tools for seismic data analysis and signal processing. Bel
 
 <div class="row">
   <div class="col-sm-6">
-    <div class="repositories" style="width: 100%;">
+    <div class="repositories w-100">
       {% include repository/repo.liquid repository="arohatgi29/Seismic-Processing-using-Madagascar" %}
     </div>
   </div>
@@ -71,7 +67,7 @@ I develop open-source tools for seismic data analysis and signal processing. Bel
 
 <div class="row">
   <div class="col-sm-6">
-    <div class="repositories" style="width: 100%;">
+    <div class="repositories w-100">
       {% include repository/repo.liquid repository="arohatgi29/Team_Surfers_Geoscience_Hackathon2024" %}
     </div>
   </div>
