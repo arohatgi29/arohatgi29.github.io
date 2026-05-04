@@ -40,7 +40,7 @@ nav_order: 5
   </div>
 </div>
 
-**Rohatgi-et-al-2025-Data-driven-analysis-of-seismic-phase-using-circular-statistics** [![Code](https://img.shields.io/badge/Code-GitHub-2ea44f)](https://github.com/arohatgi29/SeismicPhaseAnalysis)
+**Rohatgi-et-al-2025-Data-driven analysis of seismic phase using circular statistics** [![Code](https://img.shields.io/badge/Code-GitHub-2ea44f)](https://github.com/arohatgi29/SeismicPhaseAnalysis)
 
 ---
 
@@ -58,6 +58,22 @@ nav_order: 5
 </div>
 
 ---
+## LocalSignalAttributes.jl
+
+<div class="row align-items-center">
+  <div class="col-sm-6">
+    <div class="repositories w-100">
+      {% include repository/repo.liquid repository="arohatgi29/LocalSignalAttributes.jl" %}
+    </div>
+  </div>
+  <div class="col-sm-6">
+    A registered Julia package for computing <em>local</em> signal attributes — measures defined in the neighborhood of each sample rather than instantaneously or globally — using regularized inversion with shaping regularization. Useful for estimating local frequencies and local similarity between datasets, with applications in seismic signal analysis.
+  </div>
+</div>
+
+[![JuliaHub](https://img.shields.io/badge/JuliaHub-LocalSignalAttributes-9558B2?logo=julia&logoColor=white)](https://juliahub.com/ui/Packages/General/LocalSignalAttributes)
+
+---
 
 ## Hackathon on Computational Reproducibility
 
@@ -68,6 +84,21 @@ nav_order: 5
     </div>
   </div>
   <div class="col-sm-6">
-    Winner of the <a href="https://www.jsg.utexas.edu/geoscience-hackathon/past-hackathons/">JSG Geoscience Hackathon</a> on Computational Reproducibility, hosted by the Jackson School of Geosciences, University of Texas at Austin. The hackathon challenged teams to develop reproducible geoscientific workflows. Our team, Team Surfers, built a reproducible seismic processing pipeline.
+    Winner of the <a href="https://www.jsg.utexas.edu/geoscience-hackathon/past-hackathons/">JSG Geoscience Hackathon</a> on Computational Reproducibility (Jackson School of Geosciences, UT Austin). With Team Surfers, I reproduced Raissi et al. (2019) on Physics-Informed Neural Networks (PINNs), benchmarked CPU vs. GPU implementations, ran sensitivity analyses on network depth and width for the 1+1D Burgers' equation, and extended the framework to solve the 1D and 2D wave equations under Dirichlet and Neumann boundary conditions.
+  </div>
+</div>
+
+---
+
+## Personal Website
+
+<div class="row align-items-center">
+  <div class="col-sm-6">
+    <div class="repositories w-100">
+      {% include repository/repo.liquid repository="arohatgi29/arohatgi29.github.io" %}
+    </div>
+  </div>
+  <div class="col-sm-6">
+    Source code for this website, built with <a href="https://github.com/alshedivat/al-folio">al-folio</a>, a Jekyll theme for academics. Hosted on GitHub Pages and customized to showcase publications, code, CV, and outdoor adventures.
   </div>
 </div>
