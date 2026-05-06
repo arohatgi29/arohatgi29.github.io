@@ -27,12 +27,12 @@ nav_order: 5
   }
 </style>
 
-## SeismicPhaseAnalysis
+## SeismicPhaseStatistics
 
 <div class="row align-items-center">
   <div class="col-sm-6">
     <div class="repositories w-100">
-      {% include repository/repo.liquid repository="arohatgi29/SeismicPhaseAnalysis" %}
+      {% include repository/repo.liquid repository="arohatgi29/SeismicPhaseStatistics" %}
     </div>
   </div>
   <div class="col-sm-6">
@@ -40,7 +40,7 @@ nav_order: 5
   </div>
 </div>
 
-**Rohatgi-et-al-2025-Data-driven analysis of seismic phase using circular statistics** [![Code](https://img.shields.io/badge/Code-GitHub-2ea44f)](https://github.com/arohatgi29/SeismicPhaseAnalysis)
+**Rohatgi-et-al-2025-Data-driven analysis of seismic phase using circular statistics** [![Code](https://img.shields.io/badge/Code-GitHub-2ea44f)](https://github.com/arohatgi29/SeismicPhaseStatistics/tree/main/Rohatgi-et-al-2025-TLE)
 
 ---
 
@@ -88,7 +88,7 @@ nav_order: 5
 </div>
 
 ---
-
+<!-- 
 ## Personal Website
 
 <div class="row align-items-center">
@@ -100,4 +100,4 @@ nav_order: 5
   <div class="col-sm-6">
      Source code for this website, built with <a href="https://github.com/alshedivat/al-folio">al-folio</a>, a Jekyll theme for academics, and hosted on GitHub Pages. The site brings together my research, publications, code, CV, and outdoor activities in one place, and serves as a living portfolio that I update as new work and experiences come along.
   </div>
-</div>
+</div> -->
