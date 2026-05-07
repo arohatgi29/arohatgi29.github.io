@@ -32,7 +32,7 @@ nav_order: 5
 <div class="row align-items-center">
   <div class="col-sm-6">
     <div class="repositories w-100">
-      {% include repository/repo.liquid repository="arohatgi29/SeismicPhaseStatistics" %}
+      {% include repository/repo_static.liquid repository="arohatgi29/SeismicPhaseStatistics" %}
     </div>
   </div>
   <div class="col-sm-6">
@@ -49,7 +49,7 @@ nav_order: 5
 <div class="row align-items-center">
   <div class="col-sm-6">
     <div class="repositories w-100">
-      {% include repository/repo.liquid repository="arohatgi29/Seismic-Processing-using-Madagascar" %}
+      {% include repository/repo_static.liquid repository="arohatgi29/Seismic-Processing-using-Madagascar" %}
     </div>
   </div>
   <div class="col-sm-6">
@@ -63,7 +63,7 @@ nav_order: 5
 <div class="row align-items-center">
   <div class="col-sm-6">
     <div class="repositories w-100">
-      {% include repository/repo.liquid repository="arohatgi29/LocalSignalAttributes.jl" %}
+      {% include repository/repo_static.liquid repository="arohatgi29/LocalSignalAttributes.jl" %}
     </div>
   </div>
   <div class="col-sm-6">
@@ -79,7 +79,7 @@ nav_order: 5
 <div class="row align-items-center">
   <div class="col-sm-6">
     <div class="repositories w-100">
-      {% include repository/repo.liquid repository="arohatgi29/Team_Surfers_Geoscience_Hackathon2024" %}
+      {% include repository/repo_static.liquid repository="arohatgi29/Team_Surfers_Geoscience_Hackathon2024" %}
     </div>
   </div>
   <div class="col-sm-6">
