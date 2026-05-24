@@ -430,6 +430,9 @@ ninja.data = [{
           section: "News",},{id: "news-invited-speaker-at-the-slb-richmond-campus-in-houston-texas-presented-the-work-data-driven-analysis-of-seismic-phase-using-circular-statistics",
           title: 'Invited speaker at the SLB Richmond campus in Houston, Texas. Presented the work...',
           description: "",
+          section: "News",},{id: "news-joined-chevron-centre-of-excellence-as-an-r-amp-amp-d-intern",
+          title: 'Joined Chevron Centre Of Excellence as an R&amp;amp;amp;D Intern.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
