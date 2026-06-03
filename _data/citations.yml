@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-06-03'
 papers:
   Chc-ZtAAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -17,6 +17,10 @@ papers:
     citations: 0
     title: 'Seismic phase spectral analysis: Field-data insights from circular statistics'
     year: '2025'
+  Chc-ZtAAAAAJ:W7OEmFMy1HYC:
+    citations: 0
+    title: 'Taming Seismic Phase: From Statistical Characterization to Objective Phase Masking'
+    year: '2026'
   Chc-ZtAAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: Phase variance as a seismic quality-control attribute
@@ -26,7 +30,7 @@ papers:
     title: 'Seismic Speckle Noise: Recognizing Scattering Noise Caused by Near-Surface Heterogeneities'
     year: '2024'
   Chc-ZtAAAAAJ:qjMakFHDy7sC:
-    citations: 3
+    citations: 4
     title: Data-driven analysis of seismic phase using circular statistics
     year: '2025'
   Chc-ZtAAAAAJ:u-x6o8ySG0sC:
