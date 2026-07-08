@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-08'
 papers:
   Chc-ZtAAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -34,7 +34,7 @@ papers:
     title: 'Seismic Speckle Noise: Recognizing Scattering Noise Caused by Near-Surface Heterogeneities'
     year: '2024'
   Chc-ZtAAAAAJ:qjMakFHDy7sC:
-    citations: 5
+    citations: 6
     title: Data-driven analysis of seismic phase using circular statistics
     year: '2025'
   Chc-ZtAAAAAJ:u-x6o8ySG0sC:
