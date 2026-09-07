@@ -28,10 +28,9 @@ Outside of research, I love running. There is something about the rhythm of a lo
 
 Alaska was filled with some of the most incredible landscapes and hikes I have ever experienced. Hiking across the glacier and exploring its incredible ice formations was an unforgettable experience.
 
+<div class="row mt-3 gx-2">
 
-<div class="row mt-3 justify-content-center">
-
-  <div class="col-sm-4">
+  <div class="col-sm-6">
     {% include figure.liquid 
        path="assets/img/Alaska1a.jpeg" 
        class="img-fluid rounded" 
@@ -39,7 +38,7 @@ Alaska was filled with some of the most incredible landscapes and hikes I have e
     %}
   </div>
 
-  <div class="col-sm-4">
+  <div class="col-sm-6">
     {% include figure.liquid 
        path="assets/img/Alaska1b.jpeg" 
        class="img-fluid rounded" 
