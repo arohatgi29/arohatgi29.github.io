@@ -30,7 +30,7 @@ Alaska was filled with some of the most incredible landscapes and hikes I have e
 <div class="row mt-3">
 <div class="col-sm-4"> {% include figure.liquid path="assets/img/Alaska1.jpeg" class="img-fluid rounded" zoomable=false %} </div>
 <div class="col-sm-4"> {% include figure.liquid path="assets/img/Alaska2.jpeg" class="img-fluid rounded" zoomable=false %} </div>
-<div class="col-sm-4"> {% include figure.liquid path="assets/img/Alaska3.jpeg" class="img-fluid rounded" zoomable=false %} </div>
+<div class="col-sm-4"> {% include figure.liquid path="assets/img/Alaska3.jpg" class="img-fluid rounded" zoomable=false %} </div>
 </div>
 
 
