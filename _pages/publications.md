@@ -8,9 +8,9 @@ nav_order: 2
 
 ## Journal Articles
 
-\[3\] **Rohatgi, A.**, Bakulin, A., and Fomel, S., 2026, Amplitude-invariant phase masking for coherence recovery in scattered wavefields: *JASA Express Letters*, 6, 074801. \[[DOI](https://doi.org/10.1121/10.0044229)\] \[[Paper](../assets/pdf/2026-PhaseMasking-JASA.pdf)\]
+\[3\] **Rohatgi, A.**, Bakulin, A., and Fomel, S., 2026, Phase variance as a seismic quality-control attribute: *Sensors*, 26(18), 5815. Special Issue: Acquisition and Processing of Seismic Signals. \[[DOI](https://doi.org/10.3390/s26185815)\] \[[Paper](../assets/pdf/2026-phase-variance-Sensors.pdf)\]
 
-\[2\] **Rohatgi, A.**, Bakulin, A., and Fomel, S., 2026, Phase variance as a seismic quality-control attribute: *Sensors*, 26(18), 5815. Special Issue: Acquisition and Processing of Seismic Signals. \[[DOI](https://doi.org/10.3390/s26185815)\] \[[Paper](../assets/pdf/2026-phase-variance-Sensors.pdf)\]
+\[2\] **Rohatgi, A.**, Bakulin, A., and Fomel, S., 2026, Amplitude-invariant phase masking for coherence recovery in scattered wavefields: *Journal of Acoustical Society of America Express Letters*, 6, 074801. \[[DOI](https://doi.org/10.1121/10.0044229)\] \[[Paper](../assets/pdf/2026-PhaseMasking-JASA.pdf)\]
 
 \[1\] **Rohatgi, A.**, Bakulin, A., and Fomel, S., 2025, Data-driven analysis of seismic phase using circular statistics: *The Leading Edge*, 44(9), 683–691. Special Issue: Data-driven Geophysics. \[[DOI](https://doi.org/10.1190/tle44090683.1)\] \[[Paper](../assets/pdf/TLE_2025.pdf)\]
 
