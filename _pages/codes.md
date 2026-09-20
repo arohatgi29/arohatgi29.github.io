@@ -16,14 +16,14 @@ design phase-stabilization workflows for multichannel recordings.
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-24292e?logo=github)](https://github.com/arohatgi29/SeismicPhaseStatistics)
 ![Language](https://img.shields.io/badge/language-Julia-9558B2?logo=julia&logoColor=white)
 
-- **Rohatgi et al. (2025), *The Leading Edge*** — Data-driven analysis of seismic phase using circular statistics.  
-  [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-24292e?logo=github)](https://github.com/arohatgi29/SeismicPhaseStatistics/tree/main/Rohatgi-et-al-2025-TLE)
-  [![Zenodo](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.20055837-1682D4?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.20055837)
+- \[3\] **Rohatgi et al. (2026), *Sensors*** — Phase variance as a seismic quality-control attribute. Special Issue: Acquisition and Processing of Seismic Signals.
+  \[[Repo](https://github.com/arohatgi29/SeismicPhaseStatistics/tree/main/Rohatgi-et-al-2026-Sensors)\] \[[Zenodo](https://doi.org/10.5281/zenodo.22738375)\]
 
-- **Rohatgi et al. (2026), *The Journal of the Acoustical Society of America*** — Amplitude-invariant phase masking for coherence recovery in scattered wavefields.  
-  [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-24292e?logo=github)](https://github.com/arohatgi29/SeismicPhaseStatistics/tree/main/Rohatgi-et-al-2026-JASA)
-  [![Zenodo](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.20059964-1682D4?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.20059964)
+- \[2\] **Rohatgi et al. (2026), *JASA Express Letters*** — Amplitude-invariant phase masking for coherence recovery in scattered wavefields.
+  \[[Repo](https://github.com/arohatgi29/SeismicPhaseStatistics/tree/main/Rohatgi-et-al-2026-JASA)\] \[[Zenodo](https://doi.org/10.5281/zenodo.20059964)\]
 
+- \[1\] **Rohatgi et al. (2025), *The Leading Edge*** — Data-driven analysis of seismic phase using circular statistics. Special Issue: Data-driven Geophysics.
+  \[[Repo](https://github.com/arohatgi29/SeismicPhaseStatistics/tree/main/Rohatgi-et-al-2025-TLE)\] \[[Zenodo](https://doi.org/10.5281/zenodo.20055837)\]
 ---
 
 ## Seismic Processing using Madagascar
