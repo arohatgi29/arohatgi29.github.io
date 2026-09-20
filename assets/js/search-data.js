@@ -400,7 +400,10 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-awarded-the-institute-silver-medal-at-iit-kharagpur-an-academic-honor-given-to-students-graduating-with-the-highest-academic-performance-in-their-department",
+      },{id: "news-joined-schlumberger-geophysics-technology-center-as-commercialization-geophysicist-in-mumbai-india",
+          title: 'Joined Schlumberger Geophysics Technology Center as Commercialization Geophysicist in Mumbai, India.',
+          description: "",
+          section: "News",},{id: "news-awarded-the-institute-silver-medal-at-iit-kharagpur-an-academic-honor-given-to-students-graduating-with-the-highest-academic-performance-in-their-department",
           title: 'Awarded the Institute Silver Medal at IIT Kharagpur, an academic honor given to...',
           description: "",
           section: "News",},{id: "news-named-employee-of-the-month-at-schlumberger-geophysics-technology-center-gtc-for-contributions-to-geophysical-technology-development",
