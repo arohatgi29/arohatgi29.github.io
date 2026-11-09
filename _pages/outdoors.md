@@ -32,7 +32,7 @@ Alaska was filled with some of the most incredible landscapes and hikes I have e
 
   <div class="col-sm-6">
     {% include figure.liquid 
-       path="assets/img/Alaska1a.jpeg" 
+       path="assets/img/Alaska_new1.jpeg" 
        class="img-fluid rounded" 
        zoomable=false 
     %}
@@ -40,7 +40,7 @@ Alaska was filled with some of the most incredible landscapes and hikes I have e
 
   <div class="col-sm-6">
     {% include figure.liquid 
-       path="assets/img/Alaska1b.jpeg" 
+       path="assets/img/Alaska_new2.jpeg" 
        class="img-fluid rounded" 
        zoomable=false 
     %}
