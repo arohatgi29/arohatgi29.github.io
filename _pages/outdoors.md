@@ -28,25 +28,23 @@ Outside of research, I love running. There is something about the rhythm of a lo
 
 Alaska was filled with some of the most incredible landscapes and hikes I have ever experienced. Hiking across the glacier and exploring its incredible ice formations was an unforgettable experience.
 
+<style>
+  .alaska-photo {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+  }
+</style>
+
 <div class="row mt-3 gx-2">
-
   <div class="col-sm-6">
-    {% include figure.liquid 
-       path="assets/img/Alaska_new1.jpeg" 
-       class="img-fluid rounded" 
-       zoomable=false 
-    %}
+    {% include figure.liquid path="assets/img/Alaska_new1.jpeg" class="img-fluid rounded alaska-photo" zoomable=false %}
   </div>
-
   <div class="col-sm-6">
-    {% include figure.liquid 
-       path="assets/img/Alaska_new2.jpeg" 
-       class="img-fluid rounded" 
-       zoomable=false 
-    %}
+    {% include figure.liquid path="assets/img/Alaska_new2.jpeg" class="img-fluid rounded alaska-photo" zoomable=false %}
   </div>
-
 </div>
+
 
 Peru was one of the most incredible travel experiences. Three unforgettable hikes: Machu Picchu, where I arrived sleep-deprived after flight delays but pushed through and completed the trek; Rainbow Mountain (Vinicunca), whose striking multicolored stripes left me speechless despite hiking it while feeling sick; and Laguna 69, a stunning glacial lake in the Cordillera Blanca with the most vivid turquoise water set against snow-capped peaks, hands down the best hiking experience of them all!
 
